@@ -17,6 +17,6 @@
 
 <br />
 
+### Languages and Tools:
 
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://user-images.githubusercontent.com/41536381/128749473-709835dd-e6dd-4240-99ff-ee40f599f371.png" />
+<img align="left" alt="Xcode" width="35px" src="https://user-images.githubusercontent.com/41536381/128749473-709835dd-e6dd-4240-99ff-ee40f599f371.png" />
