@@ -1,6 +1,5 @@
 ### Hi there, I'm Yohai 👋
-
-[![Twitter Follow]](https://twitter.com/YohaiR)
+<br />
 
 ## I'm an iOS Developer
 
@@ -10,10 +9,10 @@
 - ⚡ Fun fact: I love training dogs, and have a very cute labrador German Shepherd mix🐶
 
 
-### Connect with me:
+### Connect with me on:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/YohaiR)
+[Twitter](https://twitter.com/YohaiR)
 <br />
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/yohai-reshef-28b3b3153/)
+[LinkedIn](https://www.linkedin.com/in/yohai-reshef-28b3b3153/)
 
 <br />
