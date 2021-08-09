@@ -18,7 +18,6 @@
 <br />
 
 ### Languages and Tools:
-<br />
 
 
 <img align="left" alt="Swift" width="35px" src="https://user-images.githubusercontent.com/41536381/128751741-3f327135-0ce3-43f2-8b73-b8d74e174951.png" />
