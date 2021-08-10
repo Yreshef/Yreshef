@@ -21,7 +21,7 @@
 
 
 <img align="left" alt="Swift" width="35px" src="https://user-images.githubusercontent.com/41536381/128751741-3f327135-0ce3-43f2-8b73-b8d74e174951.png" />
-<img align="left" alt="Xcode" width="50px" src="https://user-images.githubusercontent.com/41536381/128836029-337b575b-73e6-4ef0-a648-98b30d221f18.jpeg" />
+<img align="left" alt="Xcode" width="70px" src="https://user-images.githubusercontent.com/41536381/128836029-337b575b-73e6-4ef0-a648-98b30d221f18.jpeg" />
 <img align="left" alt="VisualStudioCode" width="60px" src="https://user-images.githubusercontent.com/41536381/128751754-98ca446b-2927-4eb0-b483-7eca050ef784.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://user-images.githubusercontent.com/41536381/128752078-4099e581-d849-4cdf-b656-c5709d9a65ba.png" />
 <img align="left" alt="ReactNative" width="35px" src="https://user-images.githubusercontent.com/41536381/128752086-3aa57d70-9fc1-4e5e-a9d6-e152e57ba1c6.png" />
